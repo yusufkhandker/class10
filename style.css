@@ -242,10 +242,20 @@ body{
 }
 .footercontain{
 	height: 80px;
-}
 .footwrods{
-	float: left;
+    color: black;
+    font-weight: 500;
+    float: left;
     margin: 45px 0px;
+
+}
+
+.footwords2{
+    color: black;
+    margin: 45px 25px;
+    float: left;
+
+
 }
 .footimg{
 	float: right;
